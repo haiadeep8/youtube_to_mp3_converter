@@ -7,7 +7,9 @@ CPU may also work but slow now its upto you enjoy
 
 python Packages are in requirements.txt use pip or pip3 command to install
 
-IDE used VScode
+IDE used VScode 
+
+Python Version Latest of 4th May 2024
 
 install package one by one and Enjoy
 
