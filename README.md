@@ -5,6 +5,12 @@ It has high quality compression and conversion which utilize GPU for best and fa
 
 CPU may also work but slow now its upto you enjoy
 
+python Packages are in requirements.txt use pip or pip3 command to install
+
+IDE used VScode
+
+install package one by one and Enjoy
+
 No more online converter and there limitions and subscription plans 
 
 All has to be open source now 
