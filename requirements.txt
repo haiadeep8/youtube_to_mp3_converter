@@ -1,5 +1,10 @@
+#Install This packages before running Code in VScode
 pip install tkinter
 pip install threading
 pip install pytube
 pip install moviepy
 pip install os
+
+#To convert from .py file to exe
+pip install pyinstaller
+pip install auto-py-to-exe
