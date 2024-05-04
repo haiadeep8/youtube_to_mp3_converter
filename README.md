@@ -1,13 +1,13 @@
 # youtube_to_mp3_converter
-it is a high quality GPU utilize converter for YouTube to mp3 written in python it doesn't have any security because i m not a professional developer i made it using CHATGPT 3.5 turbo code its free and open source go crazy with it
+It is a high quality GPU utilize converter for YouTube to mp3 written in python it doesn't have any security because I m not a professional developer I made it using CHATGPT 3.5 turbo code its free and open source go crazy with it
 
-it has high quality compression and conversion which utilize GPU for best and fastest compression and conversion to mp3
+It has high quality compression and conversion which utilize GPU for best and fastest compression and conversion to mp3
 
-no more online converter and there limitions and subscription plans 
+No more online converter and there limitions and subscription plans 
 
-all has to be open source now 
+All has to be open source now 
 
-link to download software if you are lazy to run the code and setup everthing with exe file of this code I converted
+Link to download software if you are lazy to run the code and setup everthing with exe file of this code I converted
 
 Enjoy!!!
 
