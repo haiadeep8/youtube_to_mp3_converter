@@ -7,7 +7,7 @@ no more online converter and there limitions and subscription plans
 
 all has to be open source now 
 
-link to download exe file of this code I converted
+link to download software if you are lazy to run the code and setup everthing with exe file of this code I converted
 
 Enjoy!!!
 
