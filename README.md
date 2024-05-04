@@ -3,6 +3,8 @@ It is a high quality GPU utilize converter for YouTube to mp3 written in python 
 
 It has high quality compression and conversion which utilize GPU for best and fastest compression and conversion to mp3
 
+CPU may also work but slow now its upto you enjoy
+
 No more online converter and there limitions and subscription plans 
 
 All has to be open source now 
