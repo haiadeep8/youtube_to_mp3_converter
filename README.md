@@ -9,9 +9,9 @@ python Packages are in requirements.txt use pip or pip3 command to install
 
 IDE used VScode 
 
-Python Version Latest of 4th May 2024 
+Python Version Latest of 17th Feb 2025 
 
-Python Version Used = --Python-3.12.3
+Python Version Used = --Python-3.13.2
 
 install package one by one and Enjoy
 
@@ -22,5 +22,7 @@ All has to be open source now
 Link to download software if you are lazy to run the code and setup everthing with exe file of this code I converted
 
 Enjoy!!!
+
+update:- New UI with customtkinter hope you guys like it
 
 Download Link:- https://mega.nz/file/1VwUEBgJ#Fiz1KB_-l9KXaGGTaXbuoklaNM77HHf1GVBC_Hl4fOE
