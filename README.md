@@ -26,4 +26,5 @@ Enjoy!!!
 update:- New UI with customtkinter hope you guys like it
 
 Download Link:- https://mega.nz/file/1VwUEBgJ#Fiz1KB_-l9KXaGGTaXbuoklaNM77HHf1GVBC_Hl4fOE
-For New Udated UI:- https://mega.nz/file/4VADwY4A#IGQHT7UfAQASVEU7PW-7891CkprpQjyzg9KTNS9_g7A
+
+  For New Udated UI:- https://mega.nz/file/4VADwY4A#IGQHT7UfAQASVEU7PW-7891CkprpQjyzg9KTNS9_g7A
